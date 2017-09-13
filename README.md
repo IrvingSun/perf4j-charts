@@ -1,5 +1,5 @@
 # perf4j-charts
-## 实现功能点：
+## 实现功能点
 - 自定义能返回Echarts折线图数据的Servlet
 - 以JSONP的方式返回JSON数据，可以在本地建立任意的页面调用
 
