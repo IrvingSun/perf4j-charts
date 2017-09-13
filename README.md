@@ -3,6 +3,8 @@
 - 自定义能返回Echarts折线图数据的Servlet
 - 以JSONP的方式返回JSON数据，可以在本地建立任意的页面调用
 
+## 效果图
+![这里写图片描述](http://img.blog.csdn.net/20170913234305389?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvc3Vud2VpX3B5dw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 ## 使用方式
 - build 并引入
